@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YoOhE9z0692G13tB3+w5HGIXoQNFgK5ihytdqNHxtX0=",
+  "Source": "QueueAPIWithBackgroundService",
+  "BasePath": "_content/QueueAPIWithBackgroundService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
