@@ -23,5 +23,5 @@ Both endpoints work in the same queue. The purpose is to show how to work the sa
 
 
 ## Sources
--About System.Threading.Channels:  https://learn.microsoft.com/en-us/dotnet/core/extensions/channels <br>
--About Background tasks with hosted services: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services
+About System.Threading.Channels:  https://learn.microsoft.com/en-us/dotnet/core/extensions/channels <br>
+About Background tasks with hosted services: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services
