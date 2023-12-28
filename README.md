@@ -21,3 +21,6 @@ Here are some examples of how to use the project:
 Both endpoints work in the same queue. The purpose is to show how to work the same queue with different endpoints
 
 
+## Sources
+About System.Threading.Channels:  https://learn.microsoft.com/en-us/dotnet/core/extensions/channels
+About Background tasks with hosted services : https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services
